@@ -1,4 +1,4 @@
-Name: Grifith Lab2 Workflow
+name: Grifith Lab2 Workflow
 
 on:
   push:
