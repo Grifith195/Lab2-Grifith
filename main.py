@@ -1,1 +1,1 @@
-print("Hello from Grifith Lab 2!") 
+print("Workflow test: it runs when I push!")
